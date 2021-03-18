@@ -1,3 +1,14 @@
+header {
+    background-color: #3a3a3a96;
+    position: fixed;
+    width: 100%;
+    height: auto;
+    left: 0;
+    top: 0;
+    padding: 1em 0;
+    z-index: 9;
+    box-shadow: 0 2px 5px #7e7e7e75;
+}
 .menu-ul {
     display: inline-flex;
     list-style-type: none;
@@ -8,20 +19,13 @@
     border-bottom: 1px solid transparent;
 }
 .menu-ul li a:hover {
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid #9631bbed;
 }
 h1 {
     font-size: 5rem;
     color: #9631bb;
 }
-header {
-    position: fixed;
-    width: 100%;
-    height: auto;
-    left: 0;
-    top: 0;
-    padding: 1em 0;
-}
+
 .logo a {
     background-color: transparent;
 }

@@ -86,14 +86,12 @@ img {
 }
 .we-text-left {
   text-align: left;
-}
-.btn, a {
+} a {
   background-color: #9631bbc7;
   padding: .7em 1.5em;
   border-radius: .3em;
   text-decoration: none;
   color: #ffffff;
-  margin-top: .5em;
   display: inline-block;
 }
 

@@ -1,15 +1,17 @@
 .package-child {
-    height: 480px;
+    height: 450px;
     overflow: hidden;
     object-fit: cover;
     object-position: center;
     z-index: 2;
+    box-shadow: 5px 5px 12px #000000c2;
 }
 .package-box {
     height: 420px;
     transform: translate(41px, -80px) scale(1.2);
     background-color: #f1b03e;
     padding: 2em 4em 2em 2em;
+    
 }
 .package-inner {
     max-width: 90%;
