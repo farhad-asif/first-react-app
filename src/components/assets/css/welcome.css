@@ -1,0 +1,15 @@
+.welcome {
+   height: 100vh;  
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.welcome-cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.welcome-inner {
+    color: #ffffff;
+}
