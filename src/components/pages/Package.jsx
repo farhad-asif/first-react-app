@@ -1,8 +1,8 @@
 import React from 'react';
 import '../assets/css/package.css';
-import pimage1 from '../assets/images/tower1.jpg';
+import pimage1 from '../assets/images/tower2.jpg';
 import pimage3 from '../assets/images/tower3.jpg';
-import packagebg from '../assets/images/delicious.jpg';
+import packagebg from '../assets/images/pkg.jpg';
 
 function Package() {
     return (
